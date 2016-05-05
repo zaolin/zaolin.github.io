@@ -1,16 +1,15 @@
 # Site settings ...
-uri: dikiaap.id
-url: https://blog.dikiaap.id
-name: Diki Andriansyah
-title: Diki Andriansyah Blog - Stay Brom
-email: diki@dikiaap.id
-author: dikiaap
+uri: zaolin.github.io
+url: https://zaolin.github.io
+name: Zaolin
+title: A hackers daily blog
+email: zaolin@das-labor.org
+author: zaolin
 baseurl: ""
-timezone: Asia/Jakarta
+timezone: Europe/Amsterdam
 keywords: "Diki Andriansyah, Diki Andriansyah Blog, dikiaap, Diki Andriansyah Ananta Putra"
 description: "Hi! Saya Diki Andriansyah. Suka membangun sesuatu dengan code dan bekerja sebagai developer. Brom [] ini adalah sebuah blog room dan banyak bermacam-macam aktifitas yang saya tulis di sini."
-social_username: dikiaap
-secondary_social_username: dikiandriansyahap
+social_username: zaolin
 
 # Build settings ...
 sass:
