@@ -5,6 +5,7 @@ name: Zaolin
 title: A hackers daily blog
 email: zaolin@das-labor.org
 author: zaolin
+hackerspace_since: 2007
 baseurl: ""
 timezone: Europe/Amsterdam
 keywords: "Coreboot, Trusted Computing, Gentoo, IT Security, Cryptography"
