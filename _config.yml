@@ -7,9 +7,10 @@ email: zaolin@das-labor.org
 author: zaolin
 baseurl: ""
 timezone: Europe/Amsterdam
-keywords: "Diki Andriansyah, Diki Andriansyah Blog, dikiaap, Diki Andriansyah Ananta Putra"
-description: "Hi! Saya Diki Andriansyah. Suka membangun sesuatu dengan code dan bekerja sebagai developer. Brom [] ini adalah sebuah blog room dan banyak bermacam-macam aktifitas yang saya tulis di sini."
+keywords: "Coreboot, Trusted Computing, Gentoo, IT Security, Cryptography"
+description: "Fo"
 social_username: zaolin
+secondary_social_username: _zaolin_
 
 # Build settings ...
 sass:
